@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyssaann98
+- 👋 Hi, I’m Alyssa
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m currently a Mathematics Teacher
