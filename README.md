@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alyssa
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and R
+- 👀 I love Data Analytics
+- 🌱 I’m currently in a Master's Program statistical analysis, linear regression, and R
 - 💞️ I’m currently a Mathematics Teacher
 
 <!---
